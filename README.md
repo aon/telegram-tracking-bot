@@ -15,7 +15,7 @@ Y administrar envíos una vez agregados:
 
 
 ## ¿Por qué?
-Porque había pedido algunas cosas por Andreani y estaba muy impaciente a que llegaran. Así creé este bot, que cada 5 minutos me mandaba la nueva información.
+Porque había pedido algunas cosas y estaba muy impaciente a que llegaran. Así creé este bot, que cada 5 minutos me mandaba la nueva información sin que tenga que estar dándole F5 constantemente.
 
 ## Ejecución
 Para poder utilizarla básicamente clonan la repo, lo cual les recomiendo usar la aplicación de Github para eso. Una vez hecho esto entran dentro de la carpeta telegram-tracking-bot y corren lo siguiente:
