@@ -1,4 +1,4 @@
-# telegram-tracking-bot
+# Telegram Tracking Bot 🤖
 Telegram tracking bot for sent packages.
 
 It allows to add shipments and track them:
